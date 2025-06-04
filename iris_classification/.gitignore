@@ -1,0 +1,40 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.log
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+
+# Django
+*.db
+*.sqlite3
+/media
+/staticfiles
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Model files
+*.pkl
+*.joblib
+
+# Migrations (optional — keep only if you want to ignore generated migrations)
+*/migrations/*.py
+*/migrations/*.pyc
+!*/migrations/__init__.py
+
+# Environment variables (if any)
+.env
