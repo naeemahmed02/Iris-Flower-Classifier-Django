@@ -46,40 +46,6 @@ The model is trained using the famous Iris dataset. Only two classes are used:
 
 ---
 
-## 📁 Project Structure
-
-```
-
-iris\_classification/
-│
-├── base/
-│   ├── templates/
-│   │   └── base/
-│   │       └── index.html
-│   ├── **init**.py
-│   ├── views.py
-│   ├── urls.py
-│   └── forms.py
-│
-├── iris\_classification/
-│   ├── **init**.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── static/
-│
-├── regression/
-│   ├── iris\_model.pkl
-│   └── scaler.pkl
-│
-├── manage.py
-└── README.md
-
-````
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
