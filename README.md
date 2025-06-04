@@ -1,7 +1,3 @@
-Here's your cleaned and correctly formatted `README.md` file in proper Markdown, ready to be used on GitHub or any other repository platform:
-
----
-
 ````markdown
 # 🌸 Iris Flower Classifier
 
