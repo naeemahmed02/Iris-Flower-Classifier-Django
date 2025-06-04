@@ -1,4 +1,8 @@
-```markdown
+Here's your cleaned and correctly formatted `README.md` file in proper Markdown, ready to be used on GitHub or any other repository platform:
+
+---
+
+````markdown
 # 🌸 Iris Flower Classifier
 
 A simple web application built using **Django** and **Scikit-learn** that predicts the type of Iris flower based on four input features. This project uses a machine learning model trained on the Iris dataset to classify the flower as either **Versicolor** or **Virginica** (Setosa is excluded in this version).
@@ -31,6 +35,7 @@ The model is trained using the famous Iris dataset. Only two classes are used:
 - Petal Width (cm)
 
 ### Preprocessing:
+
 - Feature scaling using `StandardScaler`
 - Model trained with `Logistic Regression`
 - Serialized using `joblib`
@@ -113,5 +118,4 @@ Full Stack Developer (Django + Flutter)
 
 This project is licensed under the MIT License.
 
-```
 ```
