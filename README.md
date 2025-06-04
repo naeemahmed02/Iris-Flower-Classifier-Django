@@ -104,8 +104,8 @@ Coming soon...
 ## 🧑‍💻 Author
 
 **Naeem Ahmed**
-Full Stack Developer (Django + Flutter)
-[GitHub](https://github.com/naeemahmed02) | [LinkedIn](#)
+Full Stack Developer
+[GitHub](https://github.com/naeemahmed02)
 
 ---
 
